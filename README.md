@@ -11,7 +11,7 @@ My main focus is **Full Stack development**, but I also create **Python applicat
 ---
 
 ## What I’m Working On
-- Developing **web applications** using HTML, CSS, JavaScript, Node.js, Express.js, EJS, and Bootstrap  
+- Developing **web applications** using HTML, CSS, JavaScript, React, Node.js, Express.js, EJS, and Bootstrap  
 - Building **REST APIs** and integrating with external services  
 - Writing **Python scripts** for automation and data processing  
 - Learning **Java** to strengthen backend capabilities  
